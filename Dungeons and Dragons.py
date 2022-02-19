@@ -101,7 +101,7 @@ while (play_again == 'y'):
             print('\nBefore you can do anything to save your life, the monster TEARS YOU APPART thus KILLING YOU!' +
                   "\n\n-------GAME OVER, YOU ARE DEAD!-------")
 
-            play_again = input("\n\nDo you want to play again? - (y, n)")
+    play_again = input("\n\nDo you want to play again? - (y, n)")
 
     else:
         print("Please enter a valid choice")
