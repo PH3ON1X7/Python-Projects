@@ -1,7 +1,7 @@
 # Weather Fetcher using API from https://openweathermap.org/
 import requests
 
-API_KEY = "5f29c697290983d39686bb7af757ef11"
+API_KEY = "xxxxxxxxxxx" #Enter your private API Key here.
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 
 city = input("Enter a city name: ")
